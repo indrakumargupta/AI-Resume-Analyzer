@@ -8,7 +8,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pypdf import PdfReader
 from google import genai
 
-load_dotenv()
+load_dotenv() 
 
 app = FastAPI(title="AI Resume Analyzer")
 
