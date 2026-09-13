@@ -24,13 +24,11 @@ An AI-powered resume analysis application that helps job seekers analyze and imp
 - JavaScript
 - HTML5
 - CSS3
-- Vite
 
 ### Backend
 
 - Python
 - FastAPI
-- Uvicorn
 
 ### AI
 
@@ -40,8 +38,6 @@ An AI-powered resume analysis application that helps job seekers analyze and imp
 
 - Git
 - GitHub
-- npm
-- Python Virtual Environment
 
 ---
 
@@ -51,13 +47,22 @@ An AI-powered resume analysis application that helps job seekers analyze and imp
 AI-Resume-Analyzer/
 │
 ├── Backend/
-│   ├── ...
-│   └── ...
+│   ├── main.py
+│   ├── requirements.txt
+│   └── .env
 │
 ├── Frontend/
 │   ├── src/
+│   │      ├── assest/
+│   │      ├── App.css
+│   │      ├── App.jsx
+│   │      ├── index.css
+│   │      └── main.jsx
 │   ├── public/
-│   ├── package.json
+│   ├── index.html
+│   ├── package.json 
+│   ├── .gitignore
+│   ├── package-lock.json
 │   └── ...
 │
 ├── .gitignore
