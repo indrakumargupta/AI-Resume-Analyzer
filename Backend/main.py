@@ -4,7 +4,6 @@ from io import BytesIO
 
 
 
-
 from dotenv import load_dotenv
 from fastapi import FastAPI, UploadFile, File, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
