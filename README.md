@@ -34,6 +34,7 @@ Git
 GitHub
 npm
 Python Virtual Environment
+
 📁 Project Structure
 AI-Resume-Analyzer/
 │
@@ -52,6 +53,7 @@ AI-Resume-Analyzer/
 ├── .gitignore
 ├── README.md
 └── ...
+
 
 🚀 Installation & Setup
 1. Prerequisites
